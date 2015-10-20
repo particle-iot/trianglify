@@ -7,7 +7,7 @@
     "chroma-js": "^0.6.3",
     "colors": "^1.1.2",
     "delaunay-fast": "^1.0.1",
-    "jsdom": "^3.1.2",
+    "jsdom": "7.0.1",
     "seedrandom": "^2.3.11"
   },
   "optionalDependencies": {
